@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "812a76df7341d965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I like to/20-IIS Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2617107b97922f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I like to/Questions/12.  The inst ID of the attacker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72ab75d2829da035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I like to/20-IIS Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d38f70c08a8a9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I like to/Questions/04. Date attacker uploaded aspx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "debd82d003330074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I like to/50-EVTX file analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4bbddfd4cdb0b09f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "I like to/40-MFT analysis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "I like to/40-MFT analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "I like to/40-MFT analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "I like to/40-MFT analysis.md"
+              }
             }
           }
         ],
@@ -210,22 +157,22 @@
   },
   "active": "4bbddfd4cdb0b09f",
   "lastOpenFiles": [
-    "I like to/10-Credentials.md",
-    "I like to/60-Powershell.md",
-    "I like to/20-IIS Logs.md",
     "I like to/50-EVTX file analysis.md",
-    "I like to/40-MFT analysis.md",
-    "I like to/Pasted image 20240124184329.png",
     "I like to/Questions/04. Date attacker uploaded aspx.md",
+    "I like to/20-IIS Logs.md",
+    "I like to/Questions/12.  The inst ID of the attacker.md",
+    "I like to/40-MFT analysis.md",
+    "I like to/60-Powershell.md",
+    "assets/Pasted image 20240124184329.png",
+    "assets/Pasted image 20240124155236.png",
+    "I like to/10-Credentials.md",
     "I like to/Questions/05. Date of ASPX Webshell.md",
-    "Pasted image 20240124190845.png",
+    "assets/Pasted image 20240124190845.png",
     "I like to/00 - What we have.md",
     "I like to/30-Metasploit module.md",
-    "I like to/Questions/12.  The inst ID of the attacker.md",
-    "Pasted image 20240124164127.png",
+    "assets/Pasted image 20240124164127.png",
     "I like to/Questions/02. Attacker IP.md",
     "Pasted image 20240124155215.png",
-    "Pasted image 20240124155236.png",
     "Untitled.canvas",
     "I like to/Questions/01. ASPX webshell name.md",
     "I like to/Questions/11. Useragent attacker used to access the webshell.md",
