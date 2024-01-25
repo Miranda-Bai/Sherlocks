@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d860f1bab21dccde",
+        "id": "3afde6c28f24e832",
         "type": "tabs",
         "children": [
           {
-            "id": "4bbddfd4cdb0b09f",
+            "id": "05de038ca294edbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I like to/40-MFT analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I like to/40-MFT analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I like to/40-MFT analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "I like to/40-MFT analysis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,32 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bbddfd4cdb0b09f",
+  "active": "05de038ca294edbf",
   "lastOpenFiles": [
-    "I like to/50-EVTX file analysis.md",
-    "I like to/Questions/04. Date attacker uploaded aspx.md",
+    "I like to/Questions/13. Retrieve the webshell(move.aspx).md",
+    "I like to/Questions/15. moveitsvc password changed to.md",
+    "I like to/Questions/14. The title header of the webshell.md",
+    "I like to/60-Powershell Console History.md",
+    "I like to/40-MFT analysis.md",
     "I like to/20-IIS Logs.md",
     "I like to/Questions/12.  The inst ID of the attacker.md",
-    "I like to/40-MFT analysis.md",
-    "I like to/60-Powershell.md",
+    "I like to/Questions/11. Useragent attacker used to access the webshell.md",
+    "I like to/Questions/10. Date attacker remotely accessed the machine.md",
+    "I like to/Questions/08. Date of service account password change.md",
+    "I like to/Questions/09. Protocol attacker utilize to remote access.md",
+    "I like to/50-Windows Event logs(EVTX file analysis).md",
+    "I like to/Questions/07. Tools used to enumerate the vulnerable server.md",
+    "I like to/Questions/05. File size of ASPX Webshell.md",
+    "I like to/Questions/04. Date attacker uploaded aspx.md",
+    "I like to/Questions/03. Attacker User Agent.md",
+    "I like to/Questions/02. Attacker IP.md",
+    "I like to/Questions/01. ASPX webshell name.md",
+    "I like to/80-Defender log analysis.md",
+    "I like to/70-Memory dump(.vmem).md",
+    "assets/Pasted image 20240125224438.png",
+    "assets/Pasted image 20240125224433.png",
+    "assets/Pasted image 20240125223811.png",
+    "assets/Pasted image 20240125220907.png",
+    "assets/Pasted image 20240125220404.png",
+    "I like to/00 - What we have.md",
     "assets/Pasted image 20240124184329.png",
     "assets/Pasted image 20240124155236.png",
     "I like to/10-Credentials.md",
-    "I like to/Questions/05. Date of ASPX Webshell.md",
     "assets/Pasted image 20240124190845.png",
-    "I like to/00 - What we have.md",
     "I like to/30-Metasploit module.md",
     "assets/Pasted image 20240124164127.png",
-    "I like to/Questions/02. Attacker IP.md",
     "Pasted image 20240124155215.png",
     "Untitled.canvas",
-    "I like to/Questions/01. ASPX webshell name.md",
-    "I like to/Questions/11. Useragent attacker used to access the webshell.md",
-    "I like to/Questions/10. Date attacker remotely accessed the machine.md",
-    "I like to/Questions/09. Protocol attacker utilize to remote access.md",
-    "I like to/Questions/08. Date of service account password change.md",
-    "I like to/Questions/07. Tools used to enumerate the vulnerable server.md",
-    "I like to/Questions/03. Attacker User Agent.md",
     "Welcome.md",
     "I like to/Questions",
     "I like to"

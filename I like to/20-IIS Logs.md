@@ -32,6 +32,8 @@ Log range: 2023-07-12 10:08:39 - 2023-07-12 11:24:47
     147 Ruby
 ```
 
+^05d3b6
+
 ```
 └─$ grep nmap u_ex230712.log
 2023-07-12 10:11:15 10.10.0.25 OPTIONS / - 80 - 10.255.254.3 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 101
@@ -48,6 +50,8 @@ Log range: 2023-07-12 10:08:39 - 2023-07-12 11:24:47
      64 /guestaccess.aspx
       6 /machine.aspx
 ```
+
+^e8b888
 
 ```
 └─$ grep -v '\#' u_ex230712.log | awk '{print $9" "$5}' | sort | uniq -c | grep aspx | sort
@@ -72,6 +76,9 @@ Log range: 2023-07-12 10:08:39 - 2023-07-12 11:24:47
 2023-07-12 11:24:43 10.10.0.25 GET /move.aspx - 443 - 10.255.254.3 Mozilla/5.0+(X11;+Linux+x86_64;+rv:102.0)+Gecko/20100101+Firefox/102.0 - 200 0 0 1179
 2023-07-12 11:24:47 10.10.0.25 POST /move.aspx - 443 - 10.255.254.3 Mozilla/5.0+(X11;+Linux+x86_64;+rv:102.0)+Gecko/20100101+Firefox/102.0 https://moveit.htb/move.aspx 200 0 0 159
 ```
+
+^76ed9c
+
 ## Analyze MoveIt exploit
 [moveit_cve_2023_34362.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/http/moveit_cve_2023_34362.rb)
 
