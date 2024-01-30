@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05de038ca294edbf",
+            "id": "a9861b316c21f719",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md"
+              }
             }
           }
         ],
@@ -147,43 +155,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05de038ca294edbf",
+  "active": "a9861b316c21f719",
   "lastOpenFiles": [
+    "OpTinselTrace-4/Questions.md",
+    "OpTinselTrace-4/00 - networktraffic.pcapng.md",
+    "OpTinselTrace-4/assets/Pasted image 20240130144130.png",
+    "OpTinselTrace-4/assets/Pasted image 20240130142441.png",
+    "OpTinselTrace-4/assets/Pasted image 20240130141441.png",
+    "OpTinselTrace-4/assets/Pasted image 20240130135002.png",
+    "OpTinselTrace-4/assets/Pasted image 20240130134542.png",
+    "OpTinselTrace-4/assets/Pasted image 20240130134326.png",
+    "OpTinselTrace-4/assets/Pasted image 20240130133408.png",
+    "OpTinselTrace-4/assets/Pasted image 20240130133609.png",
+    "OpTinselTrace-4/assets",
+    "OpTinselTrace-4/assets/Pasted image 20240130133120.png",
+    "Nubilum-2/00 - What We Have.md",
+    "OpTinselTrace-4",
+    "Nubilum-2/10 - ap-northeast-1.md",
+    "Nubilum-2/20 - ap-south-1.md",
+    "I like to/50-Windows Event logs(EVTX file analysis).md",
+    "I like to/40-MFT analysis.md",
+    "I like to/30-Metasploit module.md",
+    "I like to/20-IIS Logs.md",
+    "I like to/10-Credentials.md",
+    "I like to/00 - What we have.md",
+    "Nubilum-2/Questions.md",
+    "Noted/Questions.md",
+    "Noted/20- session.xml.md",
+    "Noted/assets/Pasted image 20240129172906.png",
+    "Noted/00 - What We Have.md",
+    "Nubilum-2",
+    "Noted/50 - youhavebeenhacked.txt.md",
+    "Noted/30 - LootAndPurge.java.md",
+    "Noted/10 - config.xml.md",
+    "Noted/40 - CopyLog.csv.md",
+    "Noted/assets",
+    "I like to/Questions/01. ASPX webshell name.md",
     "I like to/Questions/13. Retrieve the webshell(move.aspx).md",
     "I like to/Questions/15. moveitsvc password changed to.md",
     "I like to/Questions/14. The title header of the webshell.md",
     "I like to/60-Powershell Console History.md",
-    "I like to/40-MFT analysis.md",
-    "I like to/20-IIS Logs.md",
     "I like to/Questions/12.  The inst ID of the attacker.md",
-    "I like to/Questions/11. Useragent attacker used to access the webshell.md",
-    "I like to/Questions/10. Date attacker remotely accessed the machine.md",
-    "I like to/Questions/08. Date of service account password change.md",
-    "I like to/Questions/09. Protocol attacker utilize to remote access.md",
-    "I like to/50-Windows Event logs(EVTX file analysis).md",
-    "I like to/Questions/07. Tools used to enumerate the vulnerable server.md",
-    "I like to/Questions/05. File size of ASPX Webshell.md",
-    "I like to/Questions/04. Date attacker uploaded aspx.md",
-    "I like to/Questions/03. Attacker User Agent.md",
-    "I like to/Questions/02. Attacker IP.md",
-    "I like to/Questions/01. ASPX webshell name.md",
-    "I like to/80-Defender log analysis.md",
-    "I like to/70-Memory dump(.vmem).md",
-    "assets/Pasted image 20240125224438.png",
-    "assets/Pasted image 20240125224433.png",
-    "assets/Pasted image 20240125223811.png",
-    "assets/Pasted image 20240125220907.png",
-    "assets/Pasted image 20240125220404.png",
-    "I like to/00 - What we have.md",
-    "assets/Pasted image 20240124184329.png",
-    "assets/Pasted image 20240124155236.png",
-    "I like to/10-Credentials.md",
-    "assets/Pasted image 20240124190845.png",
-    "I like to/30-Metasploit module.md",
-    "assets/Pasted image 20240124164127.png",
-    "Pasted image 20240124155215.png",
     "Untitled.canvas",
-    "Welcome.md",
     "I like to/Questions",
     "I like to"
   ]
