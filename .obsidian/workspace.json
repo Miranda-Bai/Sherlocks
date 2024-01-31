@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9861b316c21f719",
+            "id": "b25ee887a731c68c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md",
+                "file": "Nubilum-1/00 - What We Have.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md",
+                "file": "Nubilum-1/00 - What We Have.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md",
+                "file": "Nubilum-1/00 - What We Have.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpTinselTrace-4/00 - networktraffic.pcapng.md"
+                "file": "Nubilum-1/00 - What We Have.md"
               }
             }
           }
@@ -155,10 +155,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9861b316c21f719",
+  "active": "b25ee887a731c68c",
   "lastOpenFiles": [
-    "OpTinselTrace-4/Questions.md",
+    "Nubilum-2/00 - What We Have.md",
+    "Nubilum-2/assets/Pasted image 20240131105443.png",
+    "Nubilum-2/assets/Pasted image 20240131101825.png",
+    "I like to/50-Windows Event logs(EVTX file analysis).md",
+    "I like to/40-MFT analysis.md",
+    "Nubilum-2/20 - ap-south-1.md",
+    "Nubilum-2/10 - ap-northeast-1.md",
+    "Nubilum-2/assets/Pasted image 20240130172803.png",
+    "Nubilum-2/assets",
+    "Nubilum-1/00 - What We Have.md",
+    "Nubilum-1",
+    "OpTinselTrace-2/00 - What We Have.md",
+    "OpTinselTrace-2/Questions.md",
     "OpTinselTrace-4/00 - networktraffic.pcapng.md",
+    "OpTinselTrace-2",
+    "OpTinselTrace-4/Questions.md",
     "OpTinselTrace-4/assets/Pasted image 20240130144130.png",
     "OpTinselTrace-4/assets/Pasted image 20240130142441.png",
     "OpTinselTrace-4/assets/Pasted image 20240130141441.png",
@@ -166,15 +180,8 @@
     "OpTinselTrace-4/assets/Pasted image 20240130134542.png",
     "OpTinselTrace-4/assets/Pasted image 20240130134326.png",
     "OpTinselTrace-4/assets/Pasted image 20240130133408.png",
-    "OpTinselTrace-4/assets/Pasted image 20240130133609.png",
     "OpTinselTrace-4/assets",
-    "OpTinselTrace-4/assets/Pasted image 20240130133120.png",
-    "Nubilum-2/00 - What We Have.md",
     "OpTinselTrace-4",
-    "Nubilum-2/10 - ap-northeast-1.md",
-    "Nubilum-2/20 - ap-south-1.md",
-    "I like to/50-Windows Event logs(EVTX file analysis).md",
-    "I like to/40-MFT analysis.md",
     "I like to/30-Metasploit module.md",
     "I like to/20-IIS Logs.md",
     "I like to/10-Credentials.md",
@@ -182,7 +189,6 @@
     "Nubilum-2/Questions.md",
     "Noted/Questions.md",
     "Noted/20- session.xml.md",
-    "Noted/assets/Pasted image 20240129172906.png",
     "Noted/00 - What We Have.md",
     "Nubilum-2",
     "Noted/50 - youhavebeenhacked.txt.md",
@@ -193,9 +199,6 @@
     "I like to/Questions/01. ASPX webshell name.md",
     "I like to/Questions/13. Retrieve the webshell(move.aspx).md",
     "I like to/Questions/15. moveitsvc password changed to.md",
-    "I like to/Questions/14. The title header of the webshell.md",
-    "I like to/60-Powershell Console History.md",
-    "I like to/Questions/12.  The inst ID of the attacker.md",
     "Untitled.canvas",
     "I like to/Questions",
     "I like to"
