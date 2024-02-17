@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpTinselTrace-2/Questions.md",
+                "file": "OpTinselTrace-2/00 - What We Have.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpTinselTrace-2/Questions.md",
+                "file": "OpTinselTrace-2/00 - What We Have.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpTinselTrace-2/Questions.md",
+                "file": "OpTinselTrace-2/00 - What We Have.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpTinselTrace-2/Questions.md"
+                "file": "OpTinselTrace-2/00 - What We Have.md"
               }
             }
           }
@@ -157,24 +157,29 @@
   },
   "active": "e4c89b8d1cb1158b",
   "lastOpenFiles": [
-    "OpTinselTrace-2/00 - What We Have.md",
+    "OpTinselTrace-2/Questions.md",
     "OpTinselTrace-1/Questions.md",
     "OpTinselTrace-1/00 - What We have.md",
-    "OpTinselTrace-2/Questions.md",
-    "OpTinselTrace-1/10 - Credentials.md",
-    "OpTinselTrace-1/assets/Pasted image 20240202210207.png",
+    "OpTinselTrace-2/00 - What We Have.md",
+    "OpTinselTrace-2/assets/Pasted image 20240217192523.png",
+    "OpTinselTrace-2/assets/Pasted image 20240217192250.png",
+    "OpTinselTrace-2/assets/Pasted image 20240217191726.png",
+    "OpTinselTrace-2/assets",
+    "OpTinselTrace-2/Untitled.md",
+    "OpTinselTrace-2/assets/Pasted image 20240217190417.png",
+    "OpTinselTrace-2/assets/Pasted image 20240217185826.png",
+    "Nubilum-1_Not yet/10 - CloudTrail logs.md",
+    "Nubilum-1_Not yet/00 - What We Have.md",
+    "OpTinselTrace-4/00 - networktraffic.pcapng.md",
     "OpTinselTrace-1/20 - $MFT.md",
+    "OpTinselTrace-1/10 - Credentials.md",
+    "OpTinselTrace-1/assets/Pasted image 20240217181543.png",
+    "OpTinselTrace-1/assets/Pasted image 20240201193440.png",
+    "Pasted image 20240217181548.png",
+    "OpTinselTrace-1/assets/Pasted image 20240202210207.png",
     "OpTinselTrace-1/assets/Pasted image 20240202210005.png",
     "I like to/00 - What we have.md",
     "I like to/40-MFT analysis.md",
-    "OpTinselTrace-1/assets/Pasted image 20240202204039.png",
-    "OpTinselTrace-1/assets/Pasted image 20240202204020.png",
-    "OpTinselTrace-1/assets/Pasted image 20240202203608.png",
-    "OpTinselTrace-1/assets/Pasted image 20240202201124.png",
-    "OpTinselTrace-1/assets/Pasted image 20240202200830.png",
-    "OpTinselTrace-1/assets/Pasted image 20240202200505.png",
-    "OpTinselTrace-1/assets/Pasted image 20240202200435.png",
-    "OpTinselTrace-1/assets/Pasted image 20240202195646.png",
     "OpTinselTrace-1/assets",
     "I like to/20-IIS Logs.md",
     "I like to/50-Windows Event logs(EVTX file analysis).md",
@@ -182,14 +187,11 @@
     "I like to/10-Credentials.md",
     "I like to/80-Defender log analysis.md",
     "OpTinselTrace-1",
-    "Nubilum-1_Not yet/00 - What We Have.md",
-    "Nubilum-1_Not yet/10 - CloudTrail logs.md",
     "Nubilum-2/00 - What We Have.md",
     "Nubilum-2/20 - ap-south-1.md",
     "Nubilum-2/10 - ap-northeast-1.md",
     "Nubilum-2/assets",
     "Nubilum-1_Not yet",
-    "OpTinselTrace-4/00 - networktraffic.pcapng.md",
     "OpTinselTrace-2",
     "OpTinselTrace-4/Questions.md",
     "OpTinselTrace-4/assets",
@@ -198,10 +200,8 @@
     "Nubilum-2/Questions.md",
     "Noted/Questions.md",
     "Noted/20- session.xml.md",
-    "Noted/00 - What We Have.md",
     "Nubilum-2",
     "Noted/assets",
-    "Untitled.canvas",
-    "I like to/Questions"
+    "Untitled.canvas"
   ]
 }

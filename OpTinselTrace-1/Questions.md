@@ -51,6 +51,15 @@ T11: What is the name of Santas secret file that Elfin sent to the actor?
 ![[Pasted image 20240202200830.png]]
 santa_deliveries.zip
 
+```bash
+$ file santa_deliveries
+santa_deliveries: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=cca09f1ef95bb11b258f9ce6c44a8084769012c3, for GNU/Linux 3.2.0, not stripped
+
+$ strings santa_deliveries
+
+```
+![[Pasted image 20240217181543.png]]
+
 T12: According to the filesystem, what is the exact CreationTime of the secret file on Elfins host?
 2023-11-28 17:01:29[[20 - $MFT#^dc84ae]]
 
