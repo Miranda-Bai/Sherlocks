@@ -46,7 +46,7 @@ $ jq '.Records[] | select(.eventName=="GetObject") | [.eventTime, .sourceIPAddre
 ```
 ![[Pasted image 20240217185826.png]]
 2023-11-29 08:24:07
-2023-11-29 08:24:16
+2023-11-29 08:24:16 ^387e61
 
 ### Why the threat actor's IP address in 191.101.31.57?
 ```bash
@@ -69,7 +69,7 @@ Download claus.py
 https://papa-noel.s3.eu-west-3.amazonaws.com/NPoleScripts/claus.py
 ![[Pasted image 20240217192250.png]]Download git commit message
 https://papa-noel.s3.eu-west-3.amazonaws.com/NPoleScripts/.git/COMMIT_EDITMSG
-![[Pasted image 20240217192523.png]]
+![[Pasted image 20240217192523.png]] ^5ea14c
 
 ```bash
 $ jq '.Records[] | [.sourceIPAddress, .userIdentity.userName] | @tsv' all.json | sort -u
@@ -94,4 +94,12 @@ $ jq '.Records[] | [.sourceIPAddress, .userIdentity.userName] | @tsv' all.json |
 "resource-explorer-2.amazonaws.com\t"
 ```
 191.101.31.57 (TA) has logged as elfadmin, so elfadmin got compromised.
-45.133.193.41, 191.101.31.57
+45.133.193.41, 191.101.31.57 ^9a5ea4
+
+```bash
+$ jq '.Records[] | select(.sourceIPAddress=="191.101.31.57" or .sourceIPAddress=="45.133.193.41") | [.resources[].ARN, .eventTime]' all.json | less
+```
+![[Pasted image 20240217194049.png]]
+bytesparkle.ovpn, 2023-11-29 10:16:53 ^fc8b78
+
+![[Pasted image 20240217194233.png]]arn:aws:s3:::papa-noel ^5f8df2
