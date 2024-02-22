@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recollection/00-What We Have.md",
+                "file": "RogueOne/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recollection/00-What We Have.md",
+                "file": "RogueOne/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recollection/00-What We Have.md",
+                "file": "RogueOne/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recollection/00-What We Have.md"
+                "file": "RogueOne/Questions.md"
               }
             }
           }
@@ -157,18 +157,28 @@
   },
   "active": "afde17e5c27b683c",
   "lastOpenFiles": [
+    "RogueOne/00-What We Have.md",
+    "RogueOne/assets/Pasted image 20240223114734.png",
+    "RogueOne/assets/Pasted image 20240223114625.png",
+    "RogueOne/assets/Pasted image 20240223114158.png",
+    "RogueOne/assets/Pasted image 20240223114125.png",
+    "RogueOne/Volatility 3 Help guide.md",
+    "RogueOne/assets/Pasted image 20240222190228.png",
+    "RogueOne/assets/Pasted image 20240222184722.png",
+    "RogueOne/assets",
+    "RogueOne/assets/Pasted image 20240222184203.png",
+    "I like to/60-Powershell Console History.md",
+    "Recollection/00-What We Have.md",
+    "I like to/70-Memory dump(.vmem).md",
+    "I like to/40-MFT analysis.md",
+    "I like to/30-Metasploit module.md",
+    "RogueOne/Questions.md",
+    "RogueOne",
     "Recollection/Ubuntu-Mounting bin Files via iat.md",
     "Recollection/Questions.md",
-    "Recollection/00-What We Have.md",
     "Recollection/assets/Pasted image 20240220201917.png",
     "Recollection/assets/Pasted image 20240220201747.png",
     "Recollection/assets/Pasted image 20240220201417.png",
-    "Recollection/assets/Pasted image 20240220200622.png",
-    "Recollection/assets/Pasted image 20240220200349.png",
-    "Recollection/assets/Pasted image 20240220195838.png",
-    "Recollection/assets/Pasted image 20240220195149.png",
-    "Recollection/assets/Pasted image 20240220195051.png",
-    "Recollection/assets/Pasted image 20240220194950.png",
     "Recollection/assets",
     "OpTinselTrace-2/00 - What We Have.md",
     "Recollection",
@@ -176,7 +186,6 @@
     "OpTinselTrace-1/00 - What We have.md",
     "OpTinselTrace-4/00 - networktraffic.pcapng.md",
     "OpTinselTrace-2/Questions.md",
-    "OpTinselTrace-2/assets/Pasted image 20240217194233.png",
     "OpTinselTrace-1/Questions.md",
     "OpTinselTrace-2/assets",
     "OpTinselTrace-2/Untitled.md",
@@ -184,24 +193,15 @@
     "Nubilum-1_Not yet/00 - What We Have.md",
     "OpTinselTrace-1/20 - $MFT.md",
     "I like to/00 - What we have.md",
-    "I like to/40-MFT analysis.md",
     "OpTinselTrace-1/assets",
     "I like to/20-IIS Logs.md",
     "I like to/50-Windows Event logs(EVTX file analysis).md",
-    "I like to/60-Powershell Console History.md",
     "I like to/10-Credentials.md",
     "I like to/80-Defender log analysis.md",
     "OpTinselTrace-1",
-    "Nubilum-2/00 - What We Have.md",
-    "Nubilum-2/20 - ap-south-1.md",
-    "Nubilum-2/10 - ap-northeast-1.md",
     "Nubilum-2/assets",
     "Nubilum-1_Not yet",
     "OpTinselTrace-2",
-    "OpTinselTrace-4/Questions.md",
-    "OpTinselTrace-4/assets",
-    "OpTinselTrace-4",
-    "I like to/30-Metasploit module.md",
     "Untitled.canvas"
   ]
 }
